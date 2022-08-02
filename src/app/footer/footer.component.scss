@@ -1,0 +1,32 @@
+/*estilo footer*/
+footer {
+    align-self: flex-end;
+    background-color: rgba(245, 193, 151, 0.884);
+    line-height: 1;
+    text-align: center;
+    width: 100%;
+    padding: 15px, 20px;
+    color: #8b4513;
+
+}
+
+footer>div>a>img {
+    width: 70px;
+    height: 50px;
+    float: right;
+    padding: 8px
+}
+
+footer #logopagos img {
+
+    width: 600px;
+    height: 80px;
+    float: left;
+}
+
+footer>address {
+    font-size: 15px;
+    font-style: italic;
+    color: #8b4513;
+
+}
